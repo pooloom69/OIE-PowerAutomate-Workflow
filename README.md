@@ -13,6 +13,11 @@ Using Microsoft Power Automate, I built a workflow to streamline faculty/staff r
    - Saves responses/attachments to SharePoint  
 3. **Microsoft Planner & Teams Integration** – Requests tracked collaboratively until completion  
 
+<img width="880" height="773" alt="Screenshot 2025-11-10 at 8 51 36 AM" src="https://github.com/user-attachments/assets/0a942786-1b9c-4869-90d5-b5da512b7b29" />
+<img width="958" height="802" alt="Screenshot 2025-11-10 at 8 52 05 AM" src="https://github.com/user-attachments/assets/792debac-34fe-49ed-b56f-600d3eb21de5" />
+
+
+
 ## Tech Stack
 - Microsoft Forms  
 - Microsoft Power Automate  
